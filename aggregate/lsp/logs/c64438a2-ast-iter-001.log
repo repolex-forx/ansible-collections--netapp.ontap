@@ -1,0 +1,7 @@
+[2026-11-07T14:13:03Z] === AST ITERATION 1 START | repo=ansible-collections/netapp.ontap sha=c64438a2 ===
+[2026-11-07T14:13:03Z] [iter=1] PHASE START: ast repo=ansible-collections/netapp.ontap sha=c64438a2
+[2026-11-07T14:13:03Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T14:22:31Z] [iter=1] AST chunks built count=1 triples=5492430
+[2026-11-07T14:22:31Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/c64438a27ba7caa80b8309b65c0189e90dac9b68/.complete
+[2026-11-07T14:22:31Z] [iter=1] PHASE END: ast elapsed_s=568 elapsed_min=9.5
+[2026-11-07T14:22:31Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
